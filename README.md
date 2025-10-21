@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello everyNyan~ ^w^<br>I'm just a GUY 🐱 ^_^<br>a cool CS student :3<br>love you <3 <br><br>
+Hello everyNyan~ ^w^<br>I'm just a GUY 🐱 ^_^<br>a cool CS student :3<br>love you <3 <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/taqsiim) 
@@ -34,26 +34,7 @@ Hello everyNyan~ ^w^<br>I'm just a GUY 🐱 ^_^<br>a cool CS student :3<br>love 
 
 ---
 
-### 🛠️ Tools & Platforms:
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
----
-
-### 🎨 Design & Media:
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TaQsiimUwU&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TaQsiimUwU&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TaQsiimUwU&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TaQsiimUwU&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=TaQsiimUwU&icon=0&color=0)](https://visitcount.itsvg.in)
